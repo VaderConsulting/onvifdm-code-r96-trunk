@@ -1,0 +1,38 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.pdb
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+
+# NuGet / tooling noise
+.nugetaudit/
+packages/*/packages/
+*.nupkg.bak
+
+# Secrets / local
+*.pfx
+*.snk
+appsettings.*.local.json
+*.local.config
+credentials.json
+secrets.json
+
+# OS / backup
+Thumbs.db
+Desktop.ini
+Backup/
+_UpgradeReport_Files/
+$tf/
+$tf1/
