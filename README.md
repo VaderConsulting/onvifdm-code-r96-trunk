@@ -1,6 +1,6 @@
 # onvifdm-code-r96-trunk
 
-ONVIF Device Manager (ODM) — an open-source Network Video Client for discovering and managing ONVIF-compliant IP cameras, encoders, storage, and analytics devices. Implements Discovery, Device, Media, Imaging, Analytics, Events, and PTZ services, with a WPF UI and an FFmpeg/live555-backed media player. Upstream project by Synesis (SourceForge `onvifdm`); this repo is my working copy of the r96 trunk tree.
+ONVIF Device Manager (ODM) - an open-source Network Video Client for discovering and managing ONVIF-compliant IP cameras, encoders, storage, and analytics devices. Implements Discovery, Device, Media, Imaging, Analytics, Events, and PTZ services, with a WPF UI and an FFmpeg/live555-backed media player. Upstream project by Synesis (SourceForge `onvifdm`); this repo is my working copy of the r96 trunk tree.
 
 **Source last updated:** 2019-10-10 · **Language:** C# / F# / C++ · **Framework:** .NET Framework 4.0 (some projects also 4.5) · **Output:** WinForms/WPF WinExe (`odm`) plus class libraries and native player DLLs
 
