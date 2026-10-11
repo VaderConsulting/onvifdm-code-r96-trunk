@@ -12,4 +12,4 @@ Additional components bundled in this tree:
 | FFmpeg (git a5c1a0c tree + win32/x64 libs) | `libs/ffmpeg-git-a5c1a0c/` | LGPL/GPL variants under `src/COPYING.*` and `licenses/` |
 | Prism 4.1 / Unity 2.1 / CommonServiceLocator / Rx 2.0 | `packages/` | Per NuGet package licenses |
 
-Do not treat this repository as MIT-licensed VaderConsulting original code.
+Do not treat this repository as MIT-licensed Vader Consulting original code.
